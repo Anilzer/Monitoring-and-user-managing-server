@@ -4,7 +4,7 @@ Application de monitoring de température et d'humidité dans une salle de serve
         - Ce projet est une application de surveillance en temps réel construite avec Node.js, Express, Socket.IO et MongoDB. Elle permet aux utilisateurs de s'inscrire, de se connecter et de surveiller en temps réel les données provenant de divers capteurs.
 
     Fonctionnalités
-        - Inscription et authentification des utilisateurs,
+        - Inscription , authentification et déconnexion des utilisateurs,
         - Surveillance en temps réel des données,
         - Alertes en cas de lectures anormales des capteurs,
         - Authentification sécurisée des utilisateurs basée sur des jetons à l'aide de JWT signés avec RSA
